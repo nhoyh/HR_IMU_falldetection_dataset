@@ -1,15 +1,15 @@
 # Heart Rate & IMU sensor data for fall detection
 Submission to IEEE Access, "Cluster-Analysis-based User-Adaptive Fall Detection using Fusion of Heart Rate Sensor and Accelerometer in a Wearable Device."
-nhoyh1@gmail.com, KAIST, TCL
+nhoyh1@gmail.com, KAIST, TCL, http://robot.kaist.ac.kr
 
 0. Description:
 	1) Sensor attachment location: at a wrist (left hand)
 	2) Subjects: 21 (13:male / 8: female)
-	3) Sampling: 50 Hz
+	3) Sampling rate: 50 Hz
 	4) 6 falls, 9 ADLs, 4 near-falls
-	5) A Effectiveness of gravity is removed.
+	5) An Effectiveness of gravity is removed.
 	6) A range of accelerometer: +-16g
-	7) PPG signals are binary (0 or 1023)
+	7) Heart rate signal is processed to easily obtain RR interval
 
 1. Scenario:
 	1) fall1.mat: Clockwise forward fall
