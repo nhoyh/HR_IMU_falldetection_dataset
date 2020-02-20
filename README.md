@@ -1,6 +1,7 @@
 # Heart Rate & IMU sensor data for fall detection
 This dataset was introduced in the published acticle, IEEE Access 2020, "Cluster-Analysis-based User-Adaptive Fall Detection using Fusion of Heart Rate Sensor and Accelerometer in a Wearable Device.".
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970371
+
 nhoyh1@gmail.com, KAIST, TCL, http://robot.kaist.ac.kr
 
 0. Description:
@@ -69,4 +70,3 @@ nhoyh1@gmail.com, KAIST, TCL, http://robot.kaist.ac.kr
 	19) Subject19: 25, Male
 	20) Subject20: 21, Female
 	21) Subject21: 30, Male
-1)
