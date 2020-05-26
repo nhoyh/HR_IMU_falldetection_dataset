@@ -1,4 +1,4 @@
-# Heart Rate & IMU sensor data for fall detection
+# Heart Rate & IMU sensor data for fall detection (HIFD dataset)
 This dataset was introduced in the published acticle, IEEE Access 2020, "Cluster-Analysis-based User-Adaptive Fall Detection using Fusion of Heart Rate Sensor and Accelerometer in a Wearable Device.".
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970371
 
