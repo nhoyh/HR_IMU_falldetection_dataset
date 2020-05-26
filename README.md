@@ -13,7 +13,7 @@ Description
 	1) Sensor attachment location: at a wrist (left hand)
 	2) Subjects: 21 (13:male / 8: female)
 	3) Sampling rate: 50 Hz
-	4) 6 falls, 9 ADLs, 4 near-falls
+	4) 19 Scenarios: 6 falls, 9 ADLs, and 4 near-falls
 	5) An Effectiveness of gravity is removed.
 	6) A range of accelerometer: +-16g
 	7) Heart rate signal is processed to easily obtain RR interval
