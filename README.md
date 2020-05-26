@@ -2,9 +2,9 @@
 This dataset was introduced in the published acticle, IEEE Access 2020, "Cluster-Analysis-based User-Adaptive Fall Detection using Fusion of Heart Rate Sensor and Accelerometer in a Wearable Device.".
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970371
 
-nhoyh1@gmail.com, KAIST, TCL, http://robot.kaist.ac.kr
+nhoyh1@gmail.com, yhnho@kaist.ac.kr, TCL, KAIST, http://robot.kaist.ac.kr
 
-<img width="300" src="https://user-images.githubusercontent.com/42211418/82864732-2f738c80-9f60-11ea-9826-ffbfcd65a730.png"><img width="300" src="https://user-images.githubusercontent.com/42211418/82864740-33071380-9f60-11ea-852a-0716d2dff93e.jpg">
+<img width="300" src="https://user-images.githubusercontent.com/42211418/82864732-2f738c80-9f60-11ea-9826-ffbfcd65a730.png">    <img width="300" src="https://user-images.githubusercontent.com/42211418/82864740-33071380-9f60-11ea-852a-0716d2dff93e.jpg">
 
 
 
