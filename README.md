@@ -4,6 +4,11 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970371
 
 nhoyh1@gmail.com, KAIST, TCL, http://robot.kaist.ac.kr
 
+![1](https://user-images.githubusercontent.com/42211418/82864732-2f738c80-9f60-11ea-9826-ffbfcd65a730.png)
+![2](https://user-images.githubusercontent.com/42211418/82864740-33071380-9f60-11ea-852a-0716d2dff93e.jpg)
+
+
+
 0. Description:
 	1) Sensor attachment location: at a wrist (left hand)
 	2) Subjects: 21 (13:male / 8: female)
