@@ -8,7 +8,7 @@ nhoyh1@gmail.com, KAIST, TCL, http://robot.kaist.ac.kr
 
 
 
-0. Description:
+Description:
 	1) Sensor attachment location: at a wrist (left hand)
 	2) Subjects: 21 (13:male / 8: female)
 	3) Sampling rate: 50 Hz
@@ -17,7 +17,7 @@ nhoyh1@gmail.com, KAIST, TCL, http://robot.kaist.ac.kr
 	6) A range of accelerometer: +-16g
 	7) Heart rate signal is processed to easily obtain RR interval
 
-1. Scenario:
+Scenario:
 	1) fall1.mat: Clockwise forward fall
 	2) fall2.mat: Clocklwise backward fall
 	3) fall3.mat: Right to left lateral fall
@@ -38,7 +38,7 @@ nhoyh1@gmail.com, KAIST, TCL, http://robot.kaist.ac.kr
 	18) write.mat: Writing
 	19) zip.mat: Rapidly zipping up and down
 
-2. Data notation:
+Data notation:
 	1) ax: x axis of accelerometer signal (g)
 	2) ay: y axis of accelerometer signal (g)
 	3) az: z axis of accelerometer signal (g)
@@ -52,7 +52,7 @@ nhoyh1@gmail.com, KAIST, TCL, http://robot.kaist.ac.kr
 	11) heart: PPG sensor
 	12) time: Real time 
 
-3. Subject information (Age, Sex):
+Subject information (Age, Sex):
 	1) Subject1: 31, Male
 	2) Subject2: 21, Female
 	3) Subject3: 28, Male
